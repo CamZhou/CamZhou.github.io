@@ -9,8 +9,8 @@
 title-bold: Cam Zhou
 title-normal: Harvey Mudd College
 email: wzhou@hmc.edu
-description: Programmer, Designer, Photographer
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+description: "Programmer | Designer | Photographer"
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://camzhou.gitlab.io" # the base hostname & protocol for your site
 author: Cam Zhou
 street_address: 340 E Foothill Blvd
