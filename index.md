@@ -33,11 +33,11 @@ nav-menu:
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Cam Zhou</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Cam Zhou is a CS major at Harvey Mudd College Besides the Computer Science background, he also enjoys taking pictures.</p>
 		<ul class="actions">
-			<li><a href="landing.html" class="button next">Get Started</a></li>
+			<li><a href="landing.html" class="button next">View More Pictures</a></li>
 		</ul>
 	</div>
 </section>
