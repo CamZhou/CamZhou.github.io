@@ -1,7 +1,7 @@
 ---
 layout: landing
-title: Gallery
-description: More pictures with stories.
+title: Landing
+description:
 image: assets/images/pic04.jpg
 nav-menu: yes
 ---
