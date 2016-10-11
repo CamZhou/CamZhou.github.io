@@ -8,20 +8,20 @@ nav-menu: yes
 
 <h2>Skills Summary</h2>
 
-<h3>Programming Languages: Swift, Objective-C, Python, Java, C++, Arduino, Racket, Prolog, Verilog, HTML, CSS, JavaScript, Assembly, MatLab, jQuery, AngularJS, AJAX, JSON</h3>
+<h4>Programming Languages: Swift, Objective-C, Python, Java, C++, Arduino, Racket, Prolog, Verilog, HTML, CSS, JavaScript, Assembly, MatLab, jQuery, AngularJS, AJAX, JSON</h4>
 
-<h3>Software: Photoshop, After Effect, Final Cut Pro, Logic Pro X, SketchUp, SolidWorks, AutoCAD, Illustrator, KiCAD, JFLAP, JAPE, Quartus, ModelSim, uVision…</h3>
+<h4>Software: Photoshop, After Effect, Final Cut Pro, Logic Pro X, SketchUp, SolidWorks, AutoCAD, Illustrator, KiCAD, JFLAP, JAPE, Quartus, ModelSim, uVision…</h4>
 
 <h2>Education<h2>
 
-<h3>Harvey Mudd College, Claremont, CA, August 2014 – May 2018</h3>
+<h4>Harvey Mudd College, Claremont, CA, August 2014 – May 2018</h4>
 <h4>	B.S. Computer Science Major, Art Concentration</h4>
 
-<h3>Stanford University, Stanford, CA, summer 2013</h3>
+<h4>Stanford University, Stanford, CA, summer 2013</h4>
 
 <h2>Experience<h2>
 
-<h3>Yelp, iOS intern, San Francisco, CA, summer 2016</h3>
+<h4>Yelp, iOS intern, San Francisco, CA, summer 2016</h4>
 
 <ul>
 	<li>Interned at iOS contribution team</li>
@@ -31,7 +31,7 @@ nav-menu: yes
 	<li>Built two experiments and over ten new features</li>
 </ul>
 
-<h3>Cameric, Co-founder & CEO, Chongqing, China, August 2015 – now</h3>
+<h4>Cameric, Co-founder & CEO, Chongqing, China, August 2015 – now</h4>
 
 <ul>
 	<li>Founded Cameric, a software development company that targets Chinese market</li>
@@ -41,13 +41,13 @@ nav-menu: yes
 
 <h2>Projects</h2>
 
-<h3>Smart Bag, 5C Hackathon, April 2016</h3>
+<h4>Smart Bag, 5C Hackathon, April 2016</h4>
 
 <ul>
 	<li>Made a smart bag that knows what’s inside and reminds you whenever you forget about something and won the Advanced Group champion</li>
 </ul>
 
-<h3>Simultube, 5C Hackathon, November 2014</h3>
+<h4>Simultube, 5C Hackathon, November 2014</h4>
 
 <ul>
 	<li>Seamless video playback technology on multiple devices using Firebase, iBeacon, Media processing and won the Intermediate Group Champion</li>
