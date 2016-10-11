@@ -37,7 +37,7 @@ nav-menu:
 		</header>
 		<p>Cam Zhou is a CS major at Harvey Mudd College. Besides the Computer Science background, he also enjoys taking pictures.</p>
 		<ul class="actions">
-			<li><a href="landing.html" class="button next">More About Cam</a></li>
+			<li><a href="landing.html" class="button next">Learn More</a></li>
 		</ul>
 	</div>
 </section>
