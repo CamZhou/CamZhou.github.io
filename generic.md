@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summery
+title: Summary
 description: 
 image: assets/images/pic11.jpg
 nav-menu: yes
