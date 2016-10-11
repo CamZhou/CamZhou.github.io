@@ -53,5 +53,5 @@ facebook:
   app_id: 
   publisher: 
   admins: 
-logo: “logo.jpg”
+og_image: “logo.jpg”
 google_site_verification: 
