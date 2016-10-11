@@ -96,9 +96,9 @@ nav-menu: yes
 		<header class="major">
 			<h2>More</h2>
 		</header>
-		<p>Let’s get in touch.</p>
+		<p>Wanna know more about me?</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">More</a></li>
+			<li><a href="generic.html" class="button next">Learn More</a></li>
 		</ul>
 	</div>
 </section>
