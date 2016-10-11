@@ -5,6 +5,8 @@ description: Crater lake national park
 image: assets/images/pic01.jpg
 ---
 
+<h2>Nikon D750</h2>
 
-nikon D750
-24mm | ƒ/2.8 | 10s | ISO 6400
+|:------:|:------:|:-------:|:--------:|
+| 24mm   | f/2.8  |   10s   | ISO 6400 |
+
