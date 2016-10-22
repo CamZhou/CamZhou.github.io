@@ -17,7 +17,7 @@ city: Claremont
 state: CA
 zip_code: 91711
 country: United States of America
-phone: (909) 344-4898
+# phone: (909) 344-4898
 
 # Plugins
 gems:
