@@ -33,11 +33,11 @@ nav-menu:
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Cam Zhou</h2>
+			<h2>Art Portfolio</h2>
 		</header>
-		<p>Cam Zhou is a CS major at Harvey Mudd College. Besides the Computer Science background, he also enjoys taking pictures.</p>
+		<p>More digital art work from Cam Zhou.</p>
 		<ul class="actions">
-			<li><a href="landing.html" class="button next">Learn More</a></li>
+			<li><a href="http://wzhou8.wixsite.com/camzhou" class="button next">Learn More</a></li>
 		</ul>
 	</div>
 </section>
